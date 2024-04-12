@@ -1,0 +1,29 @@
+{
+  "Feeling": [
+    {
+      "id": "Love",
+      "Quote": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.In love there are two things bodies and words.Love makes your soul crawl out from its hiding place.There is always madness in love.",
+      "link": "https://media.istockphoto.com/id/1146017341/photo/heart-shaped-earth.jpg?s=612x612&w=0&k=20&c=G2YPfteKeMG6N16yDwBtcvU_aAc4Fe5W-ORmoQdbpD4="
+    },
+    {
+      "id": "Happy",
+      "Quote": "Happiness is when what you think, what you say, and what you do are in harmony. Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad. There's nothing like deep breaths after laughing that hard. Nothing in the world like a sore stomach for the right reasons.",
+      "link": "https://media.istockphoto.com/id/2030818025/photo/happy-face-emoji-surrounded-by-many-emojis-on-yellow-background.jpg?s=1024x1024&w=is&k=20&c=K4qMwn75yfl8LEFOg4-8P_9mci47sjhfrjk1TgY_qiM="
+    },
+    {
+      "id": "Sad",
+      "Quote": "Of all the words of mice and men, the saddest are, 'It might have been",
+      "link": "https://st2.depositphotos.com/3933361/5591/i/380/depositphotos_55919909-stock-photo-craing-girl.jpg"
+    },
+    {
+      "id": "Angry",
+      "Quote": "Seneca describes anger as raging with an inhuman desire to inflict pain",
+      "link": "https://pngtree.com/freebackground/close-up-of-a-man-with-anger_3636748.html"
+    },
+    {
+      "id": "Courge",
+      "Quote": "Courage is the complement of fear. A man who is fearless cannot be courageous. He is also a fool",
+      "link": "https://www.humansynergistics.com/wp-content/uploads/2023/06/dollarphotoclub_89084207_718x382.jpg"
+    }
+  ]
+}
